@@ -1,0 +1,5 @@
+.vscode/*
+*.sln
+lessons/bin/*
+lessons/obj/*
+lessons/lessons.csproj
